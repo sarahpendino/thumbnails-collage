@@ -1,8 +1,7 @@
 <?php
 /**
- * Page-Level DocBlock example.
- * displays as Gregory Beaver<strong>cellog@php.net</strong>
- * , where underlined text is a "mailto:cellog@php.net" link
+ * Combined collage
+ * A simple PHP script to generate a combined collage of thumbnails.
  * @author Sarah Pendino <sarah.pendino@gmail.com>
  * @link https://dogma2020.com
  */
